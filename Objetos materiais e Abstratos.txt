@@ -1,0 +1,14 @@
+Objetos materiais:
+- Carro:
+    Atributos: Modelo, Ano, Fabricante.
+    Metodos: Acelerar, Frear, Buzinar.
+- Geladeira:
+    Atributos: Fabricante, Modelo, Cor.
+    Metodos: Ligar, Desligar, Refrigeração Rápida.
+Objetos abstratos:
+- Poder Mágico:
+    Atributos: Potência, Duração, Tipo.
+    Metodos: Ativar, Desativar, Concentração.
+- Tarefa:
+    Atributos: Descrição da tarefa, Data da criação, status.
+    Metodos: Marcar como concluida, Adiar Tarefa, Editar descrição
